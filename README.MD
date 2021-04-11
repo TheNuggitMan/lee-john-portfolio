@@ -18,5 +18,5 @@ Task List
 - [x] add the project section structuring (flexbox)
 - [ ] add all projects . . 
 - [ ] add a contact form or something similar...
-- [ ] check over the whole site for errors/mis-spellings
+- [ ] check over the whole site for errors/misspellings
 - [ ] make sure it is all responsive - fix if not.
